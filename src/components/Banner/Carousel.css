@@ -1,0 +1,15 @@
+.carousel{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.carouselItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: white;
+}

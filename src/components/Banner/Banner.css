@@ -1,0 +1,17 @@
+/* img{
+    height: 56vh;
+    width:100vw;
+    object-fit: cover ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    opacity: 0.5;
+} */
+
+.tagline{
+    display: flex;
+    height: 40%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

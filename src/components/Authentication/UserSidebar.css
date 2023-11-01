@@ -1,0 +1,18 @@
+.container{
+    width: 350px;
+    padding: 25px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: monospace;
+}
+
+.profile{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    height: 92%;
+}
+

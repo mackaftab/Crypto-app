@@ -1,0 +1,7 @@
+.header_title{
+    color: gold;
+    flex: 1;
+    font-family: Montserrat;
+    font-weight: 600;
+    cursor: pointer;
+}
